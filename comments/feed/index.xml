@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for BearMary Cattery	</title>
-	<atom:link href="http://localhost/wordpress/comments/feed/?simply_static_page=42" rel="self" type="application/rss+xml" />
-	<link>http://bearmary.github.io</link>
+	<atom:link href="http://localhost/wordpress/comments/feed/?simply_static_page=318" rel="self" type="application/rss+xml" />
+	<link>http://bearmary.github.io/website</link>
 	<description></description>
 	<lastBuildDate>Thu, 13 Jul 2023 01:43:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

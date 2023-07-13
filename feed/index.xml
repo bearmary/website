@@ -9,8 +9,8 @@
 
 <channel>
 	<title>BearMary Cattery</title>
-	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=41" rel="self" type="application/rss+xml" />
-	<link>http://bearmary.github.io</link>
+	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=317" rel="self" type="application/rss+xml" />
+	<link>http://bearmary.github.io/website</link>
 	<description></description>
 	<lastBuildDate>Thu, 13 Jul 2023 01:43:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Litter &#8211; Mary</title>
-		<link>http://bearmary.github.io/2023/07/09/litter-mary/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/litter-mary/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 03:11:07 +0000</pubDate>
@@ -31,7 +31,7 @@
 					<description><![CDATA[Chidlren of Mary – 1 They are still young. More pics will be available soon. Name: Storm, Gender: Male, Color: Ny1233, Home: Ottawa, Features: Energetic while Gentle. Birth date: May, 2023. Status: Available Name: Puffie, Gender: Female, Color: Ny1133, Home: Toronto, Features: Fluffy and Friendly. Birth date: May, 2023. Status: Not Available Name: Pearl, Gender: [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/07/mary-female/">mary</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/07/mary-female/">mary</a></div>
 </div>
 
 
@@ -53,7 +53,7 @@
 
 
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/availablekittens/">Details of Storm</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/availablekittens/">Details of Storm</a></div>
 </div>
 
 
@@ -94,7 +94,7 @@
 			</item>
 		<item>
 		<title>Litter &#8211; Lucky</title>
-		<link>http://bearmary.github.io/2023/07/09/litter-lucky/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/litter-lucky/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 02:54:04 +0000</pubDate>
@@ -103,7 +103,7 @@
 					<description><![CDATA[Chidlren of Lucky -1 Name: Mochi, Gender: Male, Color: Ay12, Home: Boston, Features: Curious and Friendly. Birth date: Feb, 2023. Status: Not Available]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/01/lucky-female/">Lucky</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/01/lucky-female/">Lucky</a></div>
 </div>
 
 
@@ -121,11 +121,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="342"  src="http://bearmary.github.io/wp-content/uploads/2023/07/b7f3cda3-7815-4053-b5ea-cb637931b2bb.jpeg?w=683" alt="" class="wp-image-342"/><figcaption class="wp-element-caption">To be honest, Mochi is really a funny boy that he does play with you in a crazy way and he stops when you pet or feed him. He seems like a gentleman while don&#8217;t be deceived by his adorable face!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="342"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/b7f3cda3-7815-4053-b5ea-cb637931b2bb.jpeg?w=683" alt="" class="wp-image-342"/><figcaption class="wp-element-caption">To be honest, Mochi is really a funny boy that he does play with you in a crazy way and he stops when you pet or feed him. He seems like a gentleman while don&#8217;t be deceived by his adorable face!</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="341"  src="http://bearmary.github.io/wp-content/uploads/2023/07/eaf3f8c2-5a4c-43a2-b35a-e1ee8e15754f-3.jpeg?w=768" alt="" class="wp-image-341"/><figcaption class="wp-element-caption">He never stops running in our home and he is curious to everything, including your dinner, breakfast and coffee. </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="341"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/eaf3f8c2-5a4c-43a2-b35a-e1ee8e15754f-3.jpeg?w=768" alt="" class="wp-image-341"/><figcaption class="wp-element-caption">He never stops running in our home and he is curious to everything, including your dinner, breakfast and coffee. </figcaption></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -134,7 +134,7 @@
 			</item>
 		<item>
 		<title>Litter &#8211; Sybil</title>
-		<link>http://bearmary.github.io/2023/07/09/litter-sybil/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/litter-sybil/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 02:22:56 +0000</pubDate>
@@ -144,7 +144,7 @@
 					<description><![CDATA[Chidlren of Sybil &#8211; 1 Name: Creamy, Gender: Female, Color: Ay11, Home: Toronto, Features: Fluffy and Gentle. Birth date: Feb, 2023. Status: Not Available Name: Strong, Gender: Male, Color: Ny11, Home: Toronto, Features: Long hair, Friendly. Birth date: Feb, 2023. Status: Not Available]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/07/sybil-female/">Sybil</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/07/sybil-female/">Sybil</a></div>
 </div>
 
 
@@ -162,15 +162,15 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="313"  src="http://bearmary.github.io/wp-content/uploads/2023/07/94473fc0-d3ba-4322-a17e-dcaae30441de-4-1.jpeg?w=768" alt="" class="wp-image-313"/><figcaption class="wp-element-caption">Creamy is a special in our family that she is a quiet girl. She always stays quietly on the floor waiting for your hug and pet. She looks gorgeous with an adorable face and a beautiful face.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="313"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/94473fc0-d3ba-4322-a17e-dcaae30441de-4-1.jpeg?w=768" alt="" class="wp-image-313"/><figcaption class="wp-element-caption">Creamy is a special in our family that she is a quiet girl. She always stays quietly on the floor waiting for your hug and pet. She looks gorgeous with an adorable face and a beautiful face.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="315"  src="http://bearmary.github.io/wp-content/uploads/2023/07/7a21589f-a9c4-4652-846b-43518467c4a0-2.jpeg?w=1024" alt="" class="wp-image-315"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="315"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/7a21589f-a9c4-4652-846b-43518467c4a0-2.jpeg?w=1024" alt="" class="wp-image-315"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="314"  src="http://bearmary.github.io/wp-content/uploads/2023/07/31837c9f-0c5d-42eb-880b-8add48338256.jpeg?w=1024" alt="" class="wp-image-314"/><figcaption class="wp-element-caption">She is a blue golden girl with the color of decent grey, blue and golden when you observe her in different angles.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="314"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/31837c9f-0c5d-42eb-880b-8add48338256.jpeg?w=1024" alt="" class="wp-image-314"/><figcaption class="wp-element-caption">She is a blue golden girl with the color of decent grey, blue and golden when you observe her in different angles.</figcaption></figure>
 </figure>
 
 
@@ -184,11 +184,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="322"  src="http://bearmary.github.io/wp-content/uploads/2023/07/8be99412-f3c4-4da0-bab7-5a636d980e32_1_105_c-1-1.jpeg?w=1024" alt="" class="wp-image-322"/><figcaption class="wp-element-caption">Strong is an easy-going longhair boy. He would always like to follow you all around the home whether you have food on hand or not. Purring and lying down on your feet with his bully towards you makes him a real angle.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="322"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/8be99412-f3c4-4da0-bab7-5a636d980e32_1_105_c-1-1.jpeg?w=1024" alt="" class="wp-image-322"/><figcaption class="wp-element-caption">Strong is an easy-going longhair boy. He would always like to follow you all around the home whether you have food on hand or not. Purring and lying down on your feet with his bully towards you makes him a real angle.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="323"  src="http://bearmary.github.io/wp-content/uploads/2023/07/875ca262-246c-4dac-a66d-fc6d9bbb9130-1-1.jpeg?w=1016" alt="" class="wp-image-323"/><figcaption class="wp-element-caption">With bright and huge eyes and a plump month, he is the one looks the most likely as his father, Teddy.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="323"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/875ca262-246c-4dac-a66d-fc6d9bbb9130-1-1.jpeg?w=1016" alt="" class="wp-image-323"/><figcaption class="wp-element-caption">With bright and huge eyes and a plump month, he is the one looks the most likely as his father, Teddy.</figcaption></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -197,7 +197,7 @@
 			</item>
 		<item>
 		<title>Teddy &#8211; King</title>
-		<link>http://bearmary.github.io/2023/07/09/qa-with-lana-devito-jewellery-designer/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/qa-with-lana-devito-jewellery-designer/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Sun, 09 Jul 2023 20:36:57 +0000</pubDate>
@@ -222,66 +222,66 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8898-1-2.jpg?w=1024" alt="" class="wp-image-132"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8898-1-2.jpg?w=1024" alt="" class="wp-image-132"/></figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="135"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_3357-2-2.jpg?w=1024" alt="" class="wp-image-135"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="135"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_3357-2-2.jpg?w=1024" alt="" class="wp-image-135"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="138"  src="http://bearmary.github.io/wp-content/uploads/2023/07/d79e6e7a408e42e2be8f862e1e7fef72.jpg?w=768" alt="" class="wp-image-138"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="138"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/d79e6e7a408e42e2be8f862e1e7fef72.jpg?w=768" alt="" class="wp-image-138"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="127"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8307-1-1.jpg?w=768" alt="" class="wp-image-127"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="127"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8307-1-1.jpg?w=768" alt="" class="wp-image-127"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="123"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8312-3.jpg?w=1024" alt="" class="wp-image-123"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="123"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8312-3.jpg?w=1024" alt="" class="wp-image-123"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="124"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8311-1-2.jpg?w=1024" alt="" class="wp-image-124"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="124"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8311-1-2.jpg?w=1024" alt="" class="wp-image-124"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="129"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8899-1-1.jpg?w=1024" alt="" class="wp-image-129"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="129"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8899-1-1.jpg?w=1024" alt="" class="wp-image-129"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="131"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8900-1-1.jpg?w=1024" alt="" class="wp-image-131"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="131"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8900-1-1.jpg?w=1024" alt="" class="wp-image-131"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="128"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8901-1-1.jpg?w=1024" alt="" class="wp-image-128"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="128"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8901-1-1.jpg?w=1024" alt="" class="wp-image-128"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="130"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8902-1-1.jpg?w=1024" alt="" class="wp-image-130"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="130"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8902-1-1.jpg?w=1024" alt="" class="wp-image-130"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="125"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8306-1-2.jpg?w=1024" alt="" class="wp-image-125"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="125"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8306-1-2.jpg?w=1024" alt="" class="wp-image-125"/></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="136"  src="http://bearmary.github.io/wp-content/uploads/2023/07/9f2915be013292964f1513c306060375.jpg?w=720" alt="" class="wp-image-136"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="136"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/9f2915be013292964f1513c306060375.jpg?w=720" alt="" class="wp-image-136"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="141"  src="http://bearmary.github.io/wp-content/uploads/2023/07/52c8ac2faed82c350bfce980194c5dcb.jpg?w=1024" alt="" class="wp-image-141"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="141"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/52c8ac2faed82c350bfce980194c5dcb.jpg?w=1024" alt="" class="wp-image-141"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="137"  src="http://bearmary.github.io/wp-content/uploads/2023/07/9724330e0bd2f976eb08165946077880-1.jpg?w=1024" alt="" class="wp-image-137"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="137"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/9724330e0bd2f976eb08165946077880-1.jpg?w=1024" alt="" class="wp-image-137"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="142"  src="http://bearmary.github.io/wp-content/uploads/2023/07/f631250548db4ec317e1b28c383bd48c.jpg?w=1024" alt="" class="wp-image-142"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="142"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/f631250548db4ec317e1b28c383bd48c.jpg?w=1024" alt="" class="wp-image-142"/></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -290,7 +290,7 @@
 			</item>
 		<item>
 		<title>Litter &#8211; Luna</title>
-		<link>http://bearmary.github.io/2023/07/09/litter-xiong-xiaole/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/litter-xiong-xiaole/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Sun, 09 Jul 2023 20:27:45 +0000</pubDate>
@@ -301,7 +301,7 @@
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-layout-constrained">
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/09/greek-inspirations/">luna</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/09/greek-inspirations/">luna</a></div>
 </div>
 
 
@@ -320,11 +320,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/wp-content/uploads/2023/07/cdae579e-b29d-4c93-ac73-fdbbb09c8d50_1_105_c-4-1.jpeg?w=1024" alt="" class="wp-image-264"/><figcaption class="wp-element-caption">He is a very adorable boy who is extremely friendly with human. He likes rolling around you and purring when he is nearby. He’s very interested in your food, and will lick your mouth while you’re eating yogurt.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/website/wp-content/uploads/2023/07/cdae579e-b29d-4c93-ac73-fdbbb09c8d50_1_105_c-4-1.jpeg?w=1024" alt="" class="wp-image-264"/><figcaption class="wp-element-caption">He is a very adorable boy who is extremely friendly with human. He likes rolling around you and purring when he is nearby. He’s very interested in your food, and will lick your mouth while you’re eating yogurt.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/wp-content/uploads/2023/07/d84300d5-3af1-492b-89e3-590ec1f0dbb3_1_105_c-2-1.jpeg?w=1024" alt="" class="wp-image-265"/><figcaption class="wp-element-caption">He feeling comfortable when you pet him.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/website/wp-content/uploads/2023/07/d84300d5-3af1-492b-89e3-590ec1f0dbb3_1_105_c-2-1.jpeg?w=1024" alt="" class="wp-image-265"/><figcaption class="wp-element-caption">He feeling comfortable when you pet him.</figcaption></figure>
 </figure>
 </div>
 </div>
@@ -342,11 +342,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/wp-content/uploads/2023/07/ba8e10a8-4c27-4d15-9671-ee1522f67c50_1_105_c-1-2.jpeg?w=1024" alt="" class="wp-image-267"/><figcaption class="wp-element-caption">A boy with huge eyes. He is always curious about the environment so he never stops while he is also comfortable with your pet and hug.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/website/wp-content/uploads/2023/07/ba8e10a8-4c27-4d15-9671-ee1522f67c50_1_105_c-1-2.jpeg?w=1024" alt="" class="wp-image-267"/><figcaption class="wp-element-caption">A boy with huge eyes. He is always curious about the environment so he never stops while he is also comfortable with your pet and hug.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/wp-content/uploads/2023/07/0317cf8e-258e-40f9-bfe0-c452021004ce_1_105_c-2-1.jpeg?w=1024" alt="" class="wp-image-268"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="http://bearmary.github.io/website/wp-content/uploads/2023/07/0317cf8e-258e-40f9-bfe0-c452021004ce_1_105_c-2-1.jpeg?w=1024" alt="" class="wp-image-268"/></figure>
 </figure>
 </div>
 </div>
@@ -362,11 +362,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-24 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="355"  src="http://bearmary.github.io/wp-content/uploads/2023/07/253de86c-6fd0-4ad3-a1e9-26919e1c50e3-4.jpeg?w=1024" alt="" class="wp-image-355"/><figcaption class="wp-element-caption">She looks like her mum in many aspects like the tail, limbs and months. Her eyes are bright and shining. She always climb on my chest while I&#8217;m eating yogurt. And you know what&#8217;s the next? This little angle &#8220;kiss&#8221; me for the yogurt on my lips.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="355"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/253de86c-6fd0-4ad3-a1e9-26919e1c50e3-4.jpeg?w=1024" alt="" class="wp-image-355"/><figcaption class="wp-element-caption">She looks like her mum in many aspects like the tail, limbs and months. Her eyes are bright and shining. She always climb on my chest while I&#8217;m eating yogurt. And you know what&#8217;s the next? This little angle &#8220;kiss&#8221; me for the yogurt on my lips.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="354"  src="http://bearmary.github.io/wp-content/uploads/2023/07/06df2417-8d20-42c7-9128-34962b43d4db.jpeg?w=1024" alt="" class="wp-image-354"/><figcaption class="wp-element-caption">Strong tail looks like a racoon&#8217;s. She always runs around with her tail up.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="354"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/06df2417-8d20-42c7-9128-34962b43d4db.jpeg?w=1024" alt="" class="wp-image-354"/><figcaption class="wp-element-caption">Strong tail looks like a racoon&#8217;s. She always runs around with her tail up.</figcaption></figure>
 </figure>
 
 
@@ -380,11 +380,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-26 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="362"  src="http://bearmary.github.io/wp-content/uploads/2023/07/049bb407-49d4-4f8b-b67f-fa9eceed5858-1-1.jpeg?w=1024" alt="" class="wp-image-362"/><figcaption class="wp-element-caption">She has bright eyes just like her mum. I can feel the tenderness in her eyes while playing</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="362"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/049bb407-49d4-4f8b-b67f-fa9eceed5858-1-1.jpeg?w=1024" alt="" class="wp-image-362"/><figcaption class="wp-element-caption">She has bright eyes just like her mum. I can feel the tenderness in her eyes while playing</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="361"  src="http://bearmary.github.io/wp-content/uploads/2023/07/213b7ea5-4317-4724-bf3e-826ebce47492-1-1.jpeg?w=1024" alt="" class="wp-image-361"/><figcaption class="wp-element-caption">With a balance face and great personality, she is as sweet as her name, waffle. </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="361"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/213b7ea5-4317-4724-bf3e-826ebce47492-1-1.jpeg?w=1024" alt="" class="wp-image-361"/><figcaption class="wp-element-caption">With a balance face and great personality, she is as sweet as her name, waffle. </figcaption></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -393,7 +393,7 @@
 			</item>
 		<item>
 		<title>Luna &#8211; Queen</title>
-		<link>http://bearmary.github.io/2023/07/09/greek-inspirations/</link>
+		<link>http://bearmary.github.io/website/2023/07/09/greek-inspirations/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Sun, 09 Jul 2023 09:03:00 +0000</pubDate>
@@ -420,57 +420,57 @@
 
 
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/09/litter-xiong-xiaole/">Luna&#8217;s children</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/09/litter-xiong-xiaole/">Luna&#8217;s children</a></div>
 </div>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="148"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0137-1.jpg?w=855" alt="" class="wp-image-148"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="148"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0137-1.jpg?w=855" alt="" class="wp-image-148"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="152"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_3813-2-1.jpg?w=1024" alt="" class="wp-image-152"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="152"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_3813-2-1.jpg?w=1024" alt="" class="wp-image-152"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="150"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0134.jpg?w=1006" alt="" class="wp-image-150"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="150"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0134.jpg?w=1006" alt="" class="wp-image-150"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="149"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0138.jpg?w=790" alt="" class="wp-image-149"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="149"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0138.jpg?w=790" alt="" class="wp-image-149"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="154"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0160-1.jpg?w=1024" alt="" class="wp-image-154"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="154"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0160-1.jpg?w=1024" alt="" class="wp-image-154"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="155"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0140.jpg?w=1024" alt="" class="wp-image-155"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="155"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0140.jpg?w=1024" alt="" class="wp-image-155"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="153"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_0142.jpg?w=1024" alt="" class="wp-image-153"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="153"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_0142.jpg?w=1024" alt="" class="wp-image-153"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="151"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_9555-1.jpg?w=656" alt="" class="wp-image-151"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="151"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_9555-1.jpg?w=656" alt="" class="wp-image-151"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="157"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8097.jpg?w=1024" alt="" class="wp-image-157"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="157"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8097.jpg?w=1024" alt="" class="wp-image-157"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="159"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8820.jpg?w=1024" alt="" class="wp-image-159"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="159"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8820.jpg?w=1024" alt="" class="wp-image-159"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="158"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_8838.jpg?w=1024" alt="" class="wp-image-158"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="158"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_8838.jpg?w=1024" alt="" class="wp-image-158"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="156"  src="http://bearmary.github.io/wp-content/uploads/2023/07/img_9893.jpg?w=1024" alt="" class="wp-image-156"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="156"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/img_9893.jpg?w=1024" alt="" class="wp-image-156"/></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -479,7 +479,7 @@
 			</item>
 		<item>
 		<title>Mary &#8211; Queen</title>
-		<link>http://bearmary.github.io/2023/07/07/mary-female/</link>
+		<link>http://bearmary.github.io/website/2023/07/07/mary-female/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Fri, 07 Jul 2023 20:00:30 +0000</pubDate>
@@ -505,33 +505,33 @@
 
 
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/09/litter-mary/">mary&#8217;s children</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/09/litter-mary/">mary&#8217;s children</a></div>
 </div>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="186"  src="http://bearmary.github.io/wp-content/uploads/2023/07/ddcd9c9c-15f0-4f56-a8a4-4641cfd4d09d.jpeg?w=1024" alt="" class="wp-image-186"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="186"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/ddcd9c9c-15f0-4f56-a8a4-4641cfd4d09d.jpeg?w=1024" alt="" class="wp-image-186"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="188"  src="http://bearmary.github.io/wp-content/uploads/2023/07/9ff5328f-92d9-4a33-bb44-f0a67c3d07d3.jpeg?w=1024" alt="" class="wp-image-188"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="188"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/9ff5328f-92d9-4a33-bb44-f0a67c3d07d3.jpeg?w=1024" alt="" class="wp-image-188"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="187"  src="http://bearmary.github.io/wp-content/uploads/2023/07/accd720f-4d1a-4763-9ca4-0808141e0a71.jpg?w=768" alt="" class="wp-image-187"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="187"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/accd720f-4d1a-4763-9ca4-0808141e0a71.jpg?w=768" alt="" class="wp-image-187"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="190"  src="http://bearmary.github.io/wp-content/uploads/2023/07/3904c524-3f89-4685-98df-4bf67f29e29e.jpeg?w=1024" alt="" class="wp-image-190"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="190"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/3904c524-3f89-4685-98df-4bf67f29e29e.jpeg?w=1024" alt="" class="wp-image-190"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="193"  src="http://bearmary.github.io/wp-content/uploads/2023/07/d7419640-0aad-4541-9637-87f056a34487.jpeg?w=683" alt="" class="wp-image-193"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="193"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/d7419640-0aad-4541-9637-87f056a34487.jpeg?w=683" alt="" class="wp-image-193"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="192"  src="http://bearmary.github.io/wp-content/uploads/2023/07/015c8261-a6cc-455a-96d0-03c715d77b7c.jpeg?w=1024" alt="" class="wp-image-192"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="192"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/015c8261-a6cc-455a-96d0-03c715d77b7c.jpeg?w=1024" alt="" class="wp-image-192"/></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -540,7 +540,7 @@
 			</item>
 		<item>
 		<title>Sybil &#8211; Queen</title>
-		<link>http://bearmary.github.io/2023/07/07/sybil-female/</link>
+		<link>http://bearmary.github.io/website/2023/07/07/sybil-female/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Fri, 07 Jul 2023 19:59:10 +0000</pubDate>
@@ -566,57 +566,57 @@
 
 
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/09/litter-sybil/">Sybil&#8217;s children</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/09/litter-sybil/">Sybil&#8217;s children</a></div>
 </div>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-35 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="175"  src="http://bearmary.github.io/wp-content/uploads/2023/07/93c5ce26-67c6-4389-8eb5-8c3d42913c9f.jpg?w=1024" alt="" class="wp-image-175"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="175"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/93c5ce26-67c6-4389-8eb5-8c3d42913c9f.jpg?w=1024" alt="" class="wp-image-175"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="183"  src="http://bearmary.github.io/wp-content/uploads/2023/07/d2af83ae-eaea-4667-ae00-2c9d92ebda5b-edited.jpg" alt="" class="wp-image-183"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="183"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/d2af83ae-eaea-4667-ae00-2c9d92ebda5b-edited.jpg" alt="" class="wp-image-183"/></figure>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img decoding="async" data-id="181"  src="http://bearmary.github.io/wp-content/uploads/2023/07/49e7b3ab-e4f4-40a6-8630-f9b8b1db5645-edited.jpg" alt="" class="wp-image-181"/></figure>
+<figure class="wp-block-image size-large is-style-default"><img decoding="async" data-id="181"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/49e7b3ab-e4f4-40a6-8630-f9b8b1db5645-edited.jpg" alt="" class="wp-image-181"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="171"  src="http://bearmary.github.io/wp-content/uploads/2023/07/28d396a8-60fc-414c-89ad-470a7b587630.jpeg?w=1024" alt="" class="wp-image-171"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="171"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/28d396a8-60fc-414c-89ad-470a7b587630.jpeg?w=1024" alt="" class="wp-image-171"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="168"  src="http://bearmary.github.io/wp-content/uploads/2023/07/2c29bae3-6d77-4c02-86ba-ae506edde75b.jpeg?w=1024" alt="" class="wp-image-168"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="168"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/2c29bae3-6d77-4c02-86ba-ae506edde75b.jpeg?w=1024" alt="" class="wp-image-168"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="169"  src="http://bearmary.github.io/wp-content/uploads/2023/07/27803fa4-140f-4e8f-a840-5bcad827a403.jpeg?w=1024" alt="" class="wp-image-169"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="169"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/27803fa4-140f-4e8f-a840-5bcad827a403.jpeg?w=1024" alt="" class="wp-image-169"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="172"  src="http://bearmary.github.io/wp-content/uploads/2023/07/a7928f83-0e68-40fb-a2c0-2d63ec5e6284.jpeg?w=1024" alt="" class="wp-image-172"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="172"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/a7928f83-0e68-40fb-a2c0-2d63ec5e6284.jpeg?w=1024" alt="" class="wp-image-172"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="170"  src="http://bearmary.github.io/wp-content/uploads/2023/07/e5aecd42-017d-4d71-b58f-5fac499b6880.jpeg?w=1024" alt="" class="wp-image-170"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="170"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/e5aecd42-017d-4d71-b58f-5fac499b6880.jpeg?w=1024" alt="" class="wp-image-170"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="173"  src="http://bearmary.github.io/wp-content/uploads/2023/07/9b8d416f-9508-4c8b-adeb-0a2cb5ef6d3e-1.jpeg?w=1024" alt="" class="wp-image-173"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="173"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/9b8d416f-9508-4c8b-adeb-0a2cb5ef6d3e-1.jpeg?w=1024" alt="" class="wp-image-173"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="179"  src="http://bearmary.github.io/wp-content/uploads/2023/07/0ecd9bc9-4fbd-4cfc-abe7-1815bf7ab227.jpeg?w=683" alt="" class="wp-image-179"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="179"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/0ecd9bc9-4fbd-4cfc-abe7-1815bf7ab227.jpeg?w=683" alt="" class="wp-image-179"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="178"  src="http://bearmary.github.io/wp-content/uploads/2023/07/650fb29e-7a58-4eef-bc2b-8bf8013fa3b1.jpeg?w=683" alt="" class="wp-image-178"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="178"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/650fb29e-7a58-4eef-bc2b-8bf8013fa3b1.jpeg?w=683" alt="" class="wp-image-178"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="180"  src="http://bearmary.github.io/wp-content/uploads/2023/07/e6a7f3ea-3471-4947-b567-1a96d8ed41dc.jpeg?w=683" alt="" class="wp-image-180"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="180"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/e6a7f3ea-3471-4947-b567-1a96d8ed41dc.jpeg?w=683" alt="" class="wp-image-180"/></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -625,7 +625,7 @@
 			</item>
 		<item>
 		<title>Lucky &#8211; Queen</title>
-		<link>http://bearmary.github.io/2023/07/01/lucky-female/</link>
+		<link>http://bearmary.github.io/website/2023/07/01/lucky-female/</link>
 		
 		<dc:creator><![CDATA[ZOU]]></dc:creator>
 		<pubDate>Sat, 01 Jul 2023 20:01:46 +0000</pubDate>
@@ -651,17 +651,17 @@
 
 
 <div class="wp-block-buttons is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/2023/07/09/litter-lucky/">lucky&#8217;s children</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://bearmary.github.io/website/2023/07/09/litter-lucky/">lucky&#8217;s children</a></div>
 </div>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-38 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="198"  src="http://bearmary.github.io/wp-content/uploads/2023/07/a0af4dd8-7f19-4d54-a88e-829967057a5d.jpeg?w=1021" alt="" class="wp-image-198"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="198"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/a0af4dd8-7f19-4d54-a88e-829967057a5d.jpeg?w=1021" alt="" class="wp-image-198"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="199"  src="http://bearmary.github.io/wp-content/uploads/2023/07/6d7753c8-abd3-4d7a-8d23-8c61ecac4880.jpeg?w=768" alt="" class="wp-image-199"/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="199"  src="http://bearmary.github.io/website/wp-content/uploads/2023/07/6d7753c8-abd3-4d7a-8d23-8c61ecac4880.jpeg?w=768" alt="" class="wp-image-199"/></figure>
 </figure>
 ]]></content:encoded>
 					
